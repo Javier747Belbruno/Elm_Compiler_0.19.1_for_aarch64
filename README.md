@@ -3,7 +3,7 @@ Elm compiler build for Linux ARM64(v8)
 
 Official distribution does not support ARM yet.
 
-## Download build -> Go to Release
+### Download build -> https://github.com/Javier747Belbruno/Elm_Compiler_0.19.1_for_aarch64/releases/tag/v0.19.1
 
 
 ## Build (Only if you need for another arch)
@@ -68,8 +68,8 @@ elm --help
 
 ## Sources
 
-https://github.com/elm/compiler/issues/2117
-https://github.com/elm/compiler/blob/master/installers/linux/README.md
-https://dev.to/csaltos/elm-for-linux-arm64-32bc
+- https://github.com/elm/compiler/issues/2117
+- https://github.com/elm/compiler/blob/master/installers/linux/README.md
+- https://dev.to/csaltos/elm-for-linux-arm64-32bc
 
 
