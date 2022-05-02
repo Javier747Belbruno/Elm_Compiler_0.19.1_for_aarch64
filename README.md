@@ -6,7 +6,13 @@ Official distribution does not support ARM yet.
 ## Download build -> Go to Release
 
 
-## Just some quick steps to compile Elm for Linux arm64  (Steps I took to build it) 
+## Build (Only if you need for another arch)
+
+1) Using a Docker.
+https://gist.github.com/rlefevre/1523f47e75310e28eee243c9c5651ac9
+
+
+2) Using normal flow.
 
 ```bash
 sudo apt-get install -y build-essential \
@@ -62,6 +68,7 @@ elm --help
 
 ## Sources
 
+https://github.com/elm/compiler/issues/2117
 https://github.com/elm/compiler/blob/master/installers/linux/README.md
 https://dev.to/csaltos/elm-for-linux-arm64-32bc
 
